@@ -1,0 +1,26 @@
+.main-container{
+  height: 100vh;
+}
+
+.video-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 7px solid gray;
+  border-radius: 20px;
+}
+
+.video-container video {
+  width: 640px; 
+  height: 480px; 
+  background: transparent;
+  border-radius: 15px;
+}
+
+  
+/* *{
+  border: 1px solid red;
+  margin: 4px;
+} */
+
